@@ -1,4 +1,4 @@
-![SBOMinator Logo - Secure Your Software Supply Chain](https://raw.githubusercontent.com/your-org/repo-name/main/images/Logo.png)
+![SBOMinator Logo - Secure Your Software Supply Chain](https://github.com/sbominator/docs/blob/main/images/Logo.png?raw=true)
 
 # SBOMinator 3000: Secure Your Software Supply Chain
 
