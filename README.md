@@ -84,9 +84,3 @@ This "ingredients list" serves as a checklist for maintaining the integrity and 
 📄 **Learn more:** [Keep Going](keep-going.md)
 
 ---
-
-## 🚀 Getting Started
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/sbominator/sbominator.git
-   cd sbominator
