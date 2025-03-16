@@ -20,7 +20,7 @@
 ## 🤔 Introduction
 SBOMinator is an open source tool designed to simplify the creation and management of Software Bills of Materials (SBOMs). It enhances the security of your software supply chain by tracking every component—whether it's a plugin, theme, or library—used in your website or application. With modern CMS platforms and PHP frameworks in mind, SBOMinator empowers site owners and developers to manage vulnerabilities proactively.
 
-📄 **Learn more:** [Overview](overview.md)
+📄 **Learn more:** [Overview](overview/overview.md)
 
 ---
 
@@ -30,7 +30,7 @@ An **SBOM (Software Bill of Materials)** is a detailed "ingredients list" for so
 - Verify the integrity of each dependency.
 - Comply with security standards and audits.
 
-📄 **Learn more:** [What is an SBOM?](What-is-an-SBOM.md)  
+📄 **Learn more:** [What is an SBOM?](overview/What-is-an-SBOM.md)  
 
 📖 **SBOM Standards:**  
 - [SPDX](https://spdx.dev)  
@@ -47,7 +47,7 @@ Modern web projects often rely on a myriad of third-party components, which intr
 - **Repository Hijacking:**  
   Attackers may compromise trusted code repositories, potentially infecting every project that uses the affected component.
 
-📄 **Learn more:** [Software Supply Chain](Software-Supply-Chain.md)
+📄 **Learn more:** [Software Supply Chain](overview/Software-Supply-Chain.md)
 
 ---
 
@@ -57,7 +57,7 @@ Modern web projects often rely on a myriad of third-party components, which intr
 - **Seamless Integration:** Built for popular CMS platforms like WordPress and TYPO3, as well as PHP frameworks like Laravel and Symfony.
 - **Real-Time Insights:** Provides continuous security data so you can act swiftly when vulnerabilities are discovered.
 
-📄 **Learn more:** [Use Case](use-case.md)
+📄 **Learn more:** [Use Case](overview/use-case.md)
 
 ---
 
@@ -69,7 +69,7 @@ Modern web projects often rely on a myriad of third-party components, which intr
 - **Web Hosts & Agencies:**  
   Monitor multiple websites through automated SBOM reports to proactively identify and remediate vulnerabilities.
 
-📄 **Learn more:** [Users & Personas](users-personas.md)
+📄 **Learn more:** [Users & Personas](overview/users-personas.md)
 
 ---
 
@@ -81,6 +81,6 @@ SBOMinator scans your project’s dependencies to produce an SBOM that details:
 
 This "ingredients list" serves as a checklist for maintaining the integrity and security of your entire software supply chain.
 
-📄 **Learn more:** [Keep Going](keep-going.md)
+📄 **Learn more:** [Keep Going](overview/keep-going.md)
 
 ---
