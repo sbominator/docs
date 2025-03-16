@@ -48,6 +48,31 @@ SBOMinator 3000 is a tool that enhances Software Bill of Materials (SBOM) manage
 **Conclusion**  
 SBOMinator is more than a documentation tool—it’s a proactive solution for maintaining secure and compliant websites. By actively using SBOM insights, organizations can safeguard their software supply chain and meet evolving security requirements.
 
+<details>
+  <summary>📌 Click to expand image description</summary>
+
+  A flowchart diagram illustrating the process of generating and analyzing a Software Bill of Materials (SBOM) using SBOMINATOR.
+
+  1. **Actor** (a person icon) initiates the process by generating an SBOM for their application.
+  2. The process starts with **SBOMINATOR CLI**, which takes the path of the application.
+  3. The SBOMINATOR CLI forwards the path to **SBOMINATOR** (a central processing unit in the diagram).
+  4. SBOMINATOR ingests various sources, including:
+     - **SBOM reports (SPDX, CycloneDX)**
+     - **npm files**
+     - **composer.json**
+     - **SCA (Static Code Analyzer)**
+  5. After processing, SBOMINATOR generates an **sbom-report.json** in either CycloneDX or SPDX format.
+  6. SBOMINATOR also triggers three different plugins:
+     - **Typo3 plugin**
+     - **Laravel plugin**
+     - **WP plugin**
+  7. The WP plugin connects to **Site Health** and **WP-CLI**.
+  8. The overall system helps integrate SBOM reports into different ecosystems for analysis.
+
+  The diagram uses arrows to indicate the data flow between components and labels key elements in black and blue fonts, with shaded boxes for plugins and processing steps.
+
+</details>
+
 ![SBOMinator Flowchart - Generating and Analyzing SBOMs](https://github.com/sbominator/docs/blob/main/images/sbominator-v1.png?raw=true)
 
 
