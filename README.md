@@ -1,11 +1,11 @@
 # SBOMinator 3000: Secure Your Software Supply Chain
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](#)
+[![GitHub Stars](#)]
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 - [Introduction](#introduction)
 - [What is an SBOM?](#what-is-an-sbom)
 - [The Problem](#the-problem)
@@ -17,24 +17,28 @@
 
 ---
 
-## Introduction
+## 🤔 Introduction
 SBOMinator is an open source tool designed to simplify the creation and management of Software Bills of Materials (SBOMs). It enhances the security of your software supply chain by tracking every component—whether it's a plugin, theme, or library—used in your website or application. With modern CMS platforms and PHP frameworks in mind, SBOMinator empowers site owners and developers to manage vulnerabilities proactively.
+
+📄 **Learn more:** [Overview](overview.md)
 
 ---
 
-## What is an SBOM?
+## 🔍 What is an SBOM?
 An **SBOM (Software Bill of Materials)** is a detailed "ingredients list" for software. It includes every code component used in your project, version details, and security information. This comprehensive inventory makes it easier to:
 - Identify outdated or vulnerable components.
 - Verify the integrity of each dependency.
 - Comply with security standards and audits.
 
-Learn more about SBOM standards:
-- [SPDX](https://spdx.dev)
-- [CycloneDX](https://cyclonedx.org)
+📄 **Learn more:** [What is an SBOM?](What-is-an-SBOM.md)  
+
+📖 **SBOM Standards:**  
+- [SPDX](https://spdx.dev)  
+- [CycloneDX](https://cyclonedx.org)  
 
 ---
 
-## The Problem
+## ⚠️ The Problem
 Modern web projects often rely on a myriad of third-party components, which introduces several risks:
 - **Compromised Ingredients:**  
   If one piece of code is tampered with or contains a hidden flaw, the entire website can be exposed to attacks (e.g., a hacked plugin allowing malicious code injection).  
@@ -43,17 +47,21 @@ Modern web projects often rely on a myriad of third-party components, which intr
 - **Repository Hijacking:**  
   Attackers may compromise trusted code repositories, potentially infecting every project that uses the affected component.
 
+📄 **Learn more:** [Software Supply Chain](Software-Supply-Chain.md)
+
 ---
 
-## Our Solution
+## 🚀 Our Solution
 **SBOMinator** automates the generation, ingestion, and ongoing monitoring of SBOMs to ensure your software remains secure:
 - **Automated SBOM Generation:** Quickly compile a comprehensive list of all dependencies.
 - **Seamless Integration:** Built for popular CMS platforms like WordPress and TYPO3, as well as PHP frameworks like Laravel and Symfony.
 - **Real-Time Insights:** Provides continuous security data so you can act swiftly when vulnerabilities are discovered.
 
+📄 **Learn more:** [Use Case](use-case.md)
+
 ---
 
-## Key Use Cases
+## 👥 Key Use Cases
 - **Site Owners:**  
   Generate or review SBOMs during deployment, updates, and routine maintenance to ensure that every code component is secure and current.
 - **Compliance Officers:**  
@@ -61,9 +69,11 @@ Modern web projects often rely on a myriad of third-party components, which intr
 - **Web Hosts & Agencies:**  
   Monitor multiple websites through automated SBOM reports to proactively identify and remediate vulnerabilities.
 
+📄 **Learn more:** [Users & Personas](users-personas.md)
+
 ---
 
-## How It Works
+## ⚙️ How It Works
 SBOMinator scans your project’s dependencies to produce an SBOM that details:
 - Component names and versions.
 - Source and licensing information.
@@ -71,8 +81,12 @@ SBOMinator scans your project’s dependencies to produce an SBOM that details:
 
 This "ingredients list" serves as a checklist for maintaining the integrity and security of your entire software supply chain.
 
+📄 **Learn more:** [Keep Going](keep-going.md)
+
 ---
 
-## Getting Started
-
-
+## 🚀 Getting Started
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/sbominator/sbominator.git
+   cd sbominator
