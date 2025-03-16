@@ -63,7 +63,7 @@ Modern web projects often rely on a myriad of third-party components, which intr
 
 ## 👥 Key Use Cases
 - **Site Owners:**  
-  Generate or review SBOMs during deployment, updates, and routine maintenance to ensure that every code component is secure and current.
+  Generate or review SBOMs during deployment, updates, and routine maintenance to ensure that every code component is secure and current. Increased adoption expected by governmental organizations, civic organizations, and enterprise agencies. 
 - **Compliance Officers:**  
   Leverage SBOMs during audits to verify that all components meet regulatory and industry standards.
 - **Web Hosts & Agencies:**  
