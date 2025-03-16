@@ -1,4 +1,4 @@
-**![][image1]
+
 # SBOMinator 3000 Overview
 
 **Introduction**  
@@ -48,5 +48,6 @@ SBOMinator 3000 is a tool that enhances Software Bill of Materials (SBOM) manage
 **Conclusion**  
 SBOMinator is more than a documentation tool—it’s a proactive solution for maintaining secure and compliant websites. By actively using SBOM insights, organizations can safeguard their software supply chain and meet evolving security requirements.
 
-![][image2]
+![SBOMinator Flowchart - Generating and Analyzing SBOMs](https://github.com/sbominator/docs/blob/main/images/sbominator-v1.png?raw=true)
+
 
