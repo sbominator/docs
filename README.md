@@ -1,4 +1,4 @@
-# SBOMinator: Secure Your Software Supply Chain
+# SBOMinator 3000: Secure Your Software Supply Chain
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](#)
