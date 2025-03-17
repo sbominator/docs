@@ -3,13 +3,15 @@
   - Our group has members who have contributed to SBOM working groups
   - Combined, these regulations impact around **1 billion** people
 
-## 🔥 Market Penetration & CMS Reach
+## 🔥 Market Penetration & CMS + PHP Framework Reach
 
 - **WordPress Dominance**  
   - Used by **61.6%** of all websites with a known CMS, representing **43.5%** of all websites.  
   - *Implication:* WordPress powers nearly half of the web - an enormous market opportunity.
 - **TYPO3 Niche Presence**  
-  - TYPO3 appears in **0.6%** of CMS-known sites (or **0.4%** of all websites).  
+  - TYPO3 appears in **0.6%** of CMS-known sites (or **0.4%** of all websites).
+- **PHP**
+  - PHP is [used by 74.5%](https://w3techs.com/technologies/details/pl-php) of all the websites whose server-side programming language we know.
 
 ---
 
