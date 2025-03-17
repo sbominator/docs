@@ -35,7 +35,8 @@
 - **Integration & Automation**  
   - Our SBOM tool integrates with existing systems, enabling seamless risk assessments across the software supply chain.
   - *Action Point:* When vulnerabilities are flagged, swift assessment and mitigation processes are triggered.
-
+- **Mandatory**
+  -  This is a requirement to go to market by European manufacturers due to the Cyber Resilience Act. 
 ---
 
 ## 👩‍💻 Developer Awareness & Community Impact
