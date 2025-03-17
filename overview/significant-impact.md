@@ -1,5 +1,5 @@
 # What's the opportunity for significant impact? 
-## EU-CRA and [CISA SBOM](https://cisa.gov/sbom) working groups
+## [EU-CRA](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act) and [CISA SBOM](https://cisa.gov/sbom) working groups
   - Our group has members who have contributed to SBOM working groups
   - Combined, these regulations impact around **1 billion** people
 
