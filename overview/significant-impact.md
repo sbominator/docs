@@ -9,9 +9,9 @@
   - Used by **61.6%** of all websites with a known CMS, representing **43.5%** of all websites.  
   - *Implication:* WordPress powers nearly half of the web - an enormous market opportunity.
 - **TYPO3 Niche Presence**  
-  - TYPO3 appears in **0.6%** of CMS-known sites (or **0.4%** of all websites).
-- **PHP**
-  - PHP is [used by 74.5%](https://w3techs.com/technologies/details/pl-php) of all the websites whose server-side programming language we know.
+  - TYPO3 is used extensively by enterprise and high-value organisations particularly in Germany, Austria, and Switzerland.
+- **PHP** and **Laravel**
+  - PHP is [used by 74.5%](https://w3techs.com/technologies/details/pl-php) of all the websites whose server-side programming language we know. Laravel one of the most widely-used PHP frameworks in the world.
 
 ---
 
